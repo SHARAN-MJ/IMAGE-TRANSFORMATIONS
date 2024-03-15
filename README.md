@@ -279,7 +279,8 @@ show_image(cropped_image)
 
 ### iv)Image Reflection
 <br>
-![Screenshot 2024-03-15 113241](https://github.com/SHARAN-MJ/IMAGE-TRANSFORMATIONS/assets/119560305/bc2d79bd-aa34-41cd-a718-8fd3df21b603)
+
+![Screenshot 2024-03-15 113241](https://github.com/SHARAN-MJ/IMAGE-TRANSFORMATIONS/assets/119560305/6f989e66-762b-4669-858f-3e1558cbed29)
 
 
 <br>
